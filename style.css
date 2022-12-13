@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    font-family: helvetica;
+}
+
+.naglowek{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    background-color: #D4D9DB;
+    display: block;
+}
+.gora1{
+   display: block;
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+}
+.gora2{
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+}
+nav{
+list-style-type: none;
+text-decoration: none;
+padding-top: 2%;
+display: flex;
+flex-direction: row;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 40px;
+justify-content: space-evenly;
+}
+.srodek{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 25px;
+}
+.srodekszare{
+    color: grey;
+    font-size: 15px;
+}
+.srodek1{
+    padding-left: 50px;
+    padding-top: 20px;
+    height: 40%;
+    width: 25%;
+    box-shadow: 2px 5px 5px #D4D9DB;
+}
+ul {
+    color: rgb(34, 101, 156);
+}
+ul span{
+    color: #343434
+}
+.srodekdol{
+    font-size: 12px;
+    padding-left: 25px;
+}
+.Premiumaplikacje {
+    color: #a0a0a0;
+  font-size: 17px;
+    
+}
+.Zawiera{
+    color: #808080;
+    font-size: 20px;
+}
+aside {
+    position: absolute;
+    padding-left: 70%;
+    padding-top: 15%;
+    padding-right: 10%;
+}
+.kontener1{
+
+}
+.tekstkonter{
+    color: grey;
+}
+.pierwszaczesc{
+   display: flex;
+   display: row;
+   float: left;
+}
+.drugaczesc{
+    float:right;
+}
+
+
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    font-family: helvetica;
+}
